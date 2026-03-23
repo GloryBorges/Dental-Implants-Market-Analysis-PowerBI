@@ -13,11 +13,34 @@ Built to answer one critical question:
 
 🔬**Three Layers of Analysis**
 
-LayerFocusKey QuestionsClinicalSuccess rates, complication rates by brand & materialWhich implant is safest?BusinessPricing strategy, market share, regional positioningWhere is the best value?MarketGrowth opportunities by continent, brand penetrationWhere should we expand?
+**Clinical**: Key Questions, Success rates, complication rates by brand & material.
+
+**Which implant is safest?**
+
+**Business**: Pricing strategy, market share, regional positioning.
+
+**Where is the best value?**
+
+**Market**: Growth opportunities by continent, brand penetration.
+
+**Where should we expand?**
+
+
 
 📊**Dashboard Pages**
 
-PageDescriptionOverviewExecutive KPIs, market leaders by continent, price comparisonDetailed AnalysisSuccess rates, complication rates, patient satisfaction by brand and materialNarrative & InsightsSCQA business narrative and executive recommendations
+**Overview**
+
+Executive KPIs, market leaders by continent, price comparison.
+
+**Detailed Analysis**
+
+Success rates, complication rates, patient satisfaction by brand and material.
+
+**Narrative & Insights**
+
+SCQA business narrative and executive recommendations.
+
 
 💡**Key Findings**
 
@@ -46,7 +69,7 @@ Dataset built with real clinical benchmarks from dental literature combined with
 
 🛠️**Tools Used**
 
-Power BI Desktop |  Dashboard development |  DAX — Custom measures and KPIs |  Python (pandas, numpy) — Dataset generation | Excel — Data source
+Power BI Desktop |  Dashboard development |  DAX — Custom measures and KPIs |  Python (pandas, numpy) — Dataset generation | Excel — Data source.
 
 
 📁**Files**
@@ -57,10 +80,6 @@ Power BI Desktop |  Dashboard development |  DAX — Custom measures and KPIs | 
 
 └── README.md
 
-📬**Author**
-Glory Meliza Borges Oropeza
-Data Analyst | Health & Retail Analytics
-LinkedIn | Upwork
 
 📚**Data Sources**
 
@@ -68,3 +87,11 @@ Straumann Group Annual Report 2023
 Nobel Biocare Clinical Documentation
 Cochrane Reviews on Dental Implant Success Rates
 Simulated regional pricing data based on LATAM, Europe and North America market benchmarks
+
+
+📬**Author**
+Glory Meliza Borges Oropeza
+Data Analyst | Health & Retail Analytics
+LinkedIn | Upwork
+glorymeliza@gmail.com
+
